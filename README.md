@@ -18,9 +18,8 @@ Skills: HTML5 / CSS3 / Javascript / JQuery / Bootstrap / WordPress
 <a href="https://www.instagram.com/wordpress_theme_developer/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://twitter.com/developer_mf">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-![Github](https://img.shields.io/badge/github-%2300AFF0.svg?style=for-the-badge&logo=Github&logoColor=white)
-<a href="https://www.facebook.com/Firozvslikhon](https://www.upwork.com/freelancers/~012d4d08289f49acdf)">![UpWork](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)</a>
-<a href="https://www.facebook.com/Firozvslikhon](https://www.fiverr.com/mdfiroz6113?up_rollout=true)">![Fiverr](https://img.shields.io/badge/fiverr-%230077B5.svg?style=for-the-badge&logo=fiverr&logoColor=white)</a> 
+<a href="https://www.upwork.com/freelancers/~012d4d08289f49acdf">![UpWork](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)</a>
+<a href="https://www.fiverr.com/mdfiroz6113?up_rollout=true">![Fiverr](https://img.shields.io/badge/fiverr-%230077B5.svg?style=for-the-badge&logo=fiverr&logoColor=white)</a> 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
