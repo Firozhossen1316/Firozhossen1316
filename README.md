@@ -16,10 +16,9 @@ Skills: HTML5 / CSS3 / Javascript / JQuery / Bootstrap / WordPress
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%2300AFF0.svg?style=for-the-badge&logo=Github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![UpWork](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)
 ![Fiverr](https://img.shields.io/badge/fiverr-%230077B5.svg?style=for-the-badge&logo=fiverr&logoColor=white)
 
