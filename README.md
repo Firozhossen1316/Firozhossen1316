@@ -38,8 +38,8 @@ Skills: HTML5 / CSS3 / Javascript / JQuery / Bootstrap / WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firozhossen1316&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<a width="30%" href="">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firozhossen1316&theme=blue-green&show_icons=true)<a/>
-<a width="30%" href="">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Firozhossen1316&theme=blue-green)<a/>
+<p width="30%">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firozhossen1316&theme=blue-green&show_icons=true)</p>
+<p width="30%">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Firozhossen1316&theme=blue-green)</p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Firozhossen1316)  
 
