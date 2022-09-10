@@ -15,13 +15,13 @@ Skills: HTML5 / CSS3 / Javascript / JQuery / Bootstrap / WordPress
 - ⚡ Fun fact: Coding 
 
 <a href="https://www.facebook.com/Firozvslikhon">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%2300AFF0.svg?style=for-the-badge&logo=Github&logoColor=white)
-![UpWork](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)
-![Fiverr](https://img.shields.io/badge/fiverr-%230077B5.svg?style=for-the-badge&logo=fiverr&logoColor=white)
+<a href="[https://www.facebook.com/Firozvslikhon](https://www.upwork.com/freelancers/~012d4d08289f49acdf)">![UpWork](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)</a>
+<a href="[https://www.facebook.com/Firozvslikhon](https://www.fiverr.com/mdfiroz6113?up_rollout=true)">![Fiverr](https://img.shields.io/badge/fiverr-%230077B5.svg?style=for-the-badge&logo=fiverr&logoColor=white)</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Firozhossen1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Firozvslikhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wordpress_theme_developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/developer_mf)  
 
